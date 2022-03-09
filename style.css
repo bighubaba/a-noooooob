@@ -2,20 +2,20 @@ a:hover {
   color: green;
 }
 
-.HolyGrail {
+body {
   display: flex;
    flex-direction: column;
 }
 
-.HolyGrail-main {
+main {
   display: flex;
   flex: auto；
 }
 
-.HolyGrail-article {
+article {
   flex: 3;
 }
-.HolyGrail-aside {
+aside {
   flex: 1;
 }
 header{
