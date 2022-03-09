@@ -4,7 +4,7 @@ a:hover {
 
 .HolyGrail {
   display: flex;
-  flex-direction: column;
+   flex-direction: column;
 }
 
 .HolyGrail-main {
@@ -17,5 +17,13 @@ a:hover {
 }
 .HolyGrail-aside {
   flex: 1;
-  order: -1;
+}
+header{
+    align-self: center;
+}
+footer{
+    align-self: center;
+    bottom:0px;
+height: 0px;
+
 }
